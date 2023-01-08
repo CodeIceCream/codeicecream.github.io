@@ -10,8 +10,14 @@ yangshun:
   url: https://github.com/yangshun
   image_url: https://github.com/yangshun.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+daqiang:
+  name: Wu Daqiang
+  title: 一名热爱前端技术的学习生
+  url: https://gitee.com/wu-daqiang
+  image_url: https://portrait.gitee.com/uploads/avatars/user/2926/8780472_wu-daqiang_1615302300.png!avatar200
+
+luckyduck:
+  name: Lucky Duck
+  title: front-end fans
+  url: https://github.com/CodeIceCream
+  image_url: https://avatars.githubusercontent.com/u/80355864?s=400&u=ad960889029ff8a72aca84233c7c3f5eb54cc8a3&v=4
