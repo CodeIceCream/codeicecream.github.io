@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodeicecream_github_io=self.webpackChunkcodeicecream_github_io||[]).push([[5168],{7769:e=>{e.exports=JSON.parse('{"label":"gerrit","permalink":"/blog/tags/gerrit","allTagsPath":"/blog/tags","count":1}')}}]);
