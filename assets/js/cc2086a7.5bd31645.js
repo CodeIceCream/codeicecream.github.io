@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodeicecream_github_io=self.webpackChunkcodeicecream_github_io||[]).push([[5267],{4312:e=>{e.exports=JSON.parse('{"label":"package","permalink":"/blog/tags/package","allTagsPath":"/blog/tags","count":1}')}}]);

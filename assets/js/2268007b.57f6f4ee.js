@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodeicecream_github_io=self.webpackChunkcodeicecream_github_io||[]).push([[6743],{7767:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/prefix","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
